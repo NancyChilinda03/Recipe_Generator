@@ -1,1 +1,1 @@
-this is a simple Recipe_Generator app that uses ingredients entered by the user or recipe name to search for a recipe
+this is a simple Recipe_Generator app that generates recipes based on ingredients entered by the user as input or users can use recipe name to search for a recipe.
